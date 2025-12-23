@@ -1,0 +1,10 @@
+ul{
+    list-style-type: none;
+}
+nav
+{
+    background-color: aqua;
+}
+.para:hover{
+    color: burlywood;
+}

@@ -1,0 +1,15 @@
+table{
+    border-width: thick;
+    color: darkslategrey;
+    background-color: rgb(150, 127, 255);
+    padding: 10px;
+}
+th{
+    background-color: darkolivegreen;
+}
+tr:nth-child(even){
+    background-color: darksalmon;
+}
+tr:nth-child(odd){
+    background-color: rgb(122, 233, 228);
+}
